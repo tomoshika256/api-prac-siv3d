@@ -27,7 +27,6 @@ void Post() {
 		Print << U"Failed.";
 	}
 }
-# include <Siv3D.hpp>
 
 void Get()
 {
